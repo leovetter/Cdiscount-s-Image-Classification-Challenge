@@ -1,0 +1,4 @@
+## The following requirements were added by pip freeze:
+bson==0.4.8
+pytz==2017.2
+six==1.11.0
